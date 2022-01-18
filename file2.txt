@@ -1,1 +1,2 @@
 bugfile
+bug 2 file
